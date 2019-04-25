@@ -1,0 +1,24 @@
+{
+    "name": "QuickSearch",
+    "description": "Search directly using URL bar. For example if you wanted to search for eminem on youtube, you can directly enter '! y eminem' in URL bar.",
+    "version": "1.0.0",
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    },
+    "omnibox": { "keyword" : "!" },
+    "manifest_version": 2,
+    "browser_action": {
+      "default_icon": {
+        "16": "newtab_search16.png",
+        "32": "newtab_search32.png"
+        }
+    },
+    "icons": {
+      "16": "newtab_search16.png",
+      "32": "newtab_search32.png",
+      "48": "newtab_search48.png",
+      "128": "newtab_search128.png"
+    }
+  }
+  
