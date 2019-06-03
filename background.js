@@ -35,7 +35,7 @@ const data = {
   },
   "w": {
     link: "https://en.wikipedia.org/wiki/",
-    des: "WikipediA page"
+    des: "Wikipedia page"
   },
   "azl": {
     link: "https://search.azlyrics.com/search.php?q=",
@@ -135,7 +135,19 @@ const data = {
   },
   "isup": {
     link: "https://downforeveryoneorjustme.com/",
-    des: "Check if this website is up or not."
+    des: "Check if this website is up or not"
+  },
+  "rarbgget": {
+    link: "https://rarbgget.org/torrents.php?search=",
+    des: "Rarbgget torrent search"
+  },
+  "tpb": {
+    link: "https://thepiratebay.org/search/",
+    des: "ThePirateBay torrent search"
+  },
+  "daraz": {
+    link: "https://www.daraz.pk/catalog/?q=",
+    des: "Daraz.pk search"
   }
 };
 
